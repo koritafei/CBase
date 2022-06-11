@@ -1,0 +1,5 @@
+add_executable(FuncReturnList FuncReturnList.cpp)
+add_executable(InitialiterList InitialiterList.cpp)
+add_executable(time time.cpp)
+add_executable(functorDemo functordemo.cpp)
+add_executable(rvaluereference rvaluereference.cc)

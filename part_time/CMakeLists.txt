@@ -1,0 +1,8 @@
+#add_executable(macro_test macro_test.c)
+#add_executable(ifelse ifelse.cpp)
+add_executable(stringdemo stringdemo.cc)
+add_executable(delegation delegation.cc)
+add_executable(templatedemo templatedemo.cc)
+#add_executable(offset offset.cc)
+add_executable(linklist linklist.cc)
+add_executable(befor_main befor_main.cc)

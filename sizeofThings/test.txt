@@ -1,0 +1,4 @@
+add_executable(fileopeartoriterator
+add_executable(ostreamiteratordemo
+fileoperatoriterator.cpp)
+ostreamiteratordemo.cpp)

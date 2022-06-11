@@ -1,0 +1,8 @@
+add_executable(productandcustom productandcustom.cc)
+add_executable(futureandpromise futureandpromise.cc)
+add_executable(futureandpromisedemo futureandpromisedemo2.cc)
+add_executable(packaged_task_demo packaged_task_demo.cpp)
+add_executable(simple_cal_time simple_cal_time.cc)
+add_executable(is_type is_type.cc)
+add_executable(pair_and_tuple pair_and_tuple.cc)
+add_executable(regex_demo regex_demo.cc)
